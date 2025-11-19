@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4AF3FF&size=24&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Unity+Developer;Backend+%26+Systems+Enthusiast;Tech+News+Writer;Always+learning+new+stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4AF3FF&size=24&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Unity+Developer;Data+%26+Analyst;Always+learning+new+stuff+🚀" />
 </p>
 
 ---
@@ -67,6 +67,8 @@
 <a href="https://maikalresume.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-ff8800?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
+
+---
 
 <p align="center">
   <i>If you liked it — ⭐ leave a star. A small action — big support :)</i>
