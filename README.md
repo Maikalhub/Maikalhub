@@ -1,96 +1,96 @@
-<h1 align="center">Привет, я <a href="#" target="_blank">Daniil</a> 👋</h1>
-<h3 align="center">💻 Computer Science Student • 📰 IT-журналист • 🛠 Разработчик • 🚀 Технологический энтузиаст</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
+  Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
+</h1>
 
 <p align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=4AF3FF&size=24&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Unity+Developer;Backend+%26+Systems+Enthusiast;Tech+News+Writer;Always+learning+new+stuff+🚀" />
 </p>
 
 ---
 
+## 🚀 About Me <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f680.png" width="28">
+
+- 🎓 Diving deep into **Computer Science**, software architecture, algorithms  
+- 🧠 Exploring **AI, ML, automation, backend development**  
+- 🎮 Building **Unity projects**, prototypes, and gameplay systems  
+- ✍ Writing articles and tech news  
+- ⚙ Love understanding **how everything works under the hood**  
+
+---
+
+## 🛠 Technologies & Tools
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts" />
+
+### 🎮 GameDev / Engines
+<img src="https://skillicons.dev/icons?i=unity" />
+
+### 🌐 Frontend / Web
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+### ⚙ Backend / Systems
+<img src="https://skillicons.dev/icons?i=nodejs,bash,linux,docker" />
+
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+---
+
+## 🧩 My Development Philosophy <img src="https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f4a1.png" width="28">
+
+> 💡 **Clean code is respect for your future self**  
+> 💬 **If you can explain it — you understand it**  
+> ⚡ **Simplicity is the peak of engineering**  
+
+---
+
+## 📌 Main Focus Areas
+
+- 🎮 **Game Dev (Unity, C#)** — mechanics, interactions, UI, AI  
+- 🌐 **Web Dev (React, Node.js)** — SPA, APIs, frontend + backend  
+- 🏗 **Backend & Systems** — architecture, data structures  
+- 🤖 **AI & Automation** — agents, neural networks, smart tools  
+
+---
+
+## 📂 My Projects
+
+> I can help format your portfolio beautifully — just send me your repositories.
+
+Examples:
+
+- 🎮 **Card Game System** — card logic, holders, animations  
+- 🤖 **Unity AI Toolkit** — NPC behavior system  
+- 🌐 **Portfolio Website** — clean & minimalistic layout  
+- ⚙ **Automation Scripts Pack** — useful Python utilities  
+
+---
+
+## 🌟 GitHub Statistics
+
 <p align="center">
-  <b>Добро пожаловать на мой GitHub!</b><br/>
-  Здесь ты найдёшь мои проекты, эксперименты, игровые прототипы, IT-статьи и всё, чем я живу в разработке.  
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Maikalhub&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Maikalhub&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikalhub&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=Maikalhub&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Обо мне
+## 📫 Contacts
 
-- 🎓 Углубляюсь в Computer Science, алгоритмы, системы и архитектуру  
-- 💼 Пишу статьи и новости о технологиях для IT-медиа  
-- 🎮 Создаю игры и прототипы на Unity  
-- 🤖 Увлекаюсь нейросетями, автоматизацией, backend-разработкой  
-- 🌐 Изучаю современный стек для web и fullstack разработки  
-- ⚡ Обожаю разбираться “как всё работает”  
-
----
-
-## 🛠 Технологии, которые я использую
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,cpp,python,js,ts,nodejs,react,html,css,git,github,linux,docker,bash" />
-</p>
-
----
-
-## 🧩 Моя философия разработки
-
-> ✔ Чистый код — это уважение к самому себе в будущем  
->  
-> ✔ Если можешь объяснить — значит понимаешь  
->  
-> ✔ Простота — это самое сложное, но и самое ценное  
-
----
-
-## 📌 Основные направления
-
-🔹 **Game Dev** – Unity, C#, физика, AI, игровые механики  
-🔹 **Web Dev** – React, Node.js, API, UI/UX  
-🔹 **System & Backend** – архитектура, оптимизации, структуры данных  
-🔹 **AI & Automation** – нейронки, агенты, тулзы, Python-скрипты  
-
----
-
-## 📂 Мои проекты
-
-🔧 *Добавлю сюда твои репозитории, если дашь ссылки.*
-
-Примеры оформления:
-
-- 🎮 **Card Game System** — логика карт, холдеров, анимаций, механик  
-- 🤖 **Unity AI Toolkit** — набор компонентов для противников и NPC  
-- 🌐 **My Portfolio Website** — собственный сайт/портфолио  
-- ✨ **Automation Scripts Pack** — полезные Python-инструменты  
-
----
-
-## 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Связаться со мной
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-EB4432?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a>
-</p>
+<a href="#"><img src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-ff8800?style=for-the-badge&logo=firefox&logoColor=white"></a>
 
 ---
 
 <p align="center">
-  <i>Если тебе понравилось — ⭐ звезда на репозиторий всегда мотивирует.</i>
+  <i>If you liked it — ⭐ leave a star. A small action — big support :)</i>
 </p>
