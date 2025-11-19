@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
-  Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Maikal Tsyrykov</a>
+  Hi there, I'm <a href="https://maikalresume.netlify.app/" target="_blank">Maikal Tsyrykov</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
 </h1>
 
@@ -25,19 +25,23 @@
 ## 🛠 Technologies & Tools
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,java" />
 
 ### 🎮 GameDev / Engines
-<img src="https://skillicons.dev/icons?i=unity" />
+<img src="https://skillicons.dev/icons?i=unity,blender,3dsmax" />
 
 ### 🌐 Frontend / Web
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css,vite,tailwind" />
 
 ### ⚙ Backend / Systems
-<img src="https://skillicons.dev/icons?i=nodejs,bash,linux,docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,bash,linux,docker,dotnet,dotnetcore" />
+
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mssql,sql" />
 
 ### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,visualstudio,postman" />
+
 
 ---
 
