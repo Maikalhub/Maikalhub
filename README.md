@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4AF3FF&size=24&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Unity+Developer;Backend+%26+Systems+Enthusiast;Tech+News+Writer;Always+learning+new+stuff+🚀" />
 </p>
 
+---
 
 ## 🚀 About Me
 
@@ -17,7 +18,7 @@
 - ✍ Writing articles and tech news  
 - ⚙ Love understanding **how everything works under the hood**  
 
-
+---
 
 ## 🛠 Technologies & Tools
 
@@ -36,6 +37,7 @@
 ### 🔧 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
+---
 
 ## 🌟 GitHub Statistics
 
@@ -49,11 +51,22 @@
   <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=Maikalhub&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
 ## 📫 Contacts
 
-<a href="#"><img src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-ff8800?style=for-the-badge&logo=firefox&logoColor=white"></a>
+<a href="https://t.me/maikal_t">
+  <img src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="mailto:maikaltsyrlink">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://maikaltsyrlink/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://maikalresume.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-ff8800?style=for-the-badge&logo=firefox&logoColor=white">
+</a>
 
 <p align="center">
   <i>If you liked it — ⭐ leave a star. A small action — big support :)</i>
